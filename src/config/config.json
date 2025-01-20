@@ -1,14 +1,14 @@
 {
   "site": {
-    "title": "Pinwheel Astro",
+    "title": "Hive Outreach",
     "base_url": "https://pinwheel-astro.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_width": "147",
-    "logo_height": "31",
-    "logo_text": "Pinwheel"
+    "favicon": "/images/hive-favi.png",
+    "logo": "/images/Hive.png",
+    "logo_width": "95",
+    "logo_height": "95",
+    "logo_text": "Hive Outreach"
   },
 
   "settings": {
@@ -18,10 +18,10 @@
   },
 
   "call_to_action": {
-    "title": "Helping teams in the world with focus",
-    "description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
+    "title": "Unlock Your Brand's Potential with Hive Outreach",
+    "description": "Ready to elevate your email marketing game? Let Hive Outreach help you craft personalized, high-impact campaigns that drive real results. Whether you’re looking to automate, analyze, or engage, we have the expertise to make it happen.",
     "button": {
-      "label": "Download The Theme",
+      "label": "Book a Call",
       "link": "https://themefisher.com/astro-themes/pinwheel-astro"
     }
   },
@@ -33,7 +33,7 @@
   },
 
   "params": {
-    "footer_description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
+    "footer_description": "We are a results-driven email marketing agency focused on delivering personalized, high-performance campaigns for brands in ecommerce, Web3, and enterprise-level businesses. With expertise in automation, social engineering, and cutting-edge analytics, we help you connect with your audience and achieve measurable success. Let’s create the future of email marketing, together.",
     "email": "info@andromeda.io",
     "location": "2118 Thornridge Cir. Syracuse, Connecticut 35624",
     "phone": "+704-555-0127",
@@ -42,8 +42,8 @@
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
-    "meta_image": "/images/og-image.png",
+    "meta_author": "Hive Outreach",
+    "meta_image": "/images/Hive-meta.png",
     "meta_description": "pinwheel astro"
   }
 }
