@@ -37,12 +37,12 @@
       "url": "/contact"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Pricing",
+      "url": "/pricing"
     },
     {
-      "name": "Changelog",
-      "url": "/changelog"
+      "name": "Book a Call",
+      "url": "https://calendly.com/hiveoutreach/let-s-talk-email-marketing"
     }
   ]
 }
