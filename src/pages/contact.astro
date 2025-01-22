@@ -46,10 +46,15 @@ const page_data = {
         </div>
         <div class="md:col-6 md:order-1">
           <form
-            class="lg:max-w-[484px]"
-            action={contact_form_action}
-            method="POST"
-          >
+          action="https://api.web3forms.com/submit"
+          method="POST"
+          id="form"
+          class="needs-validation"
+          data-astro-reload
+          novalidate>
+
+          <input type="hidden" name="access_key" value="1ab87bcc-5fa4-4d22-815a-d1299e7d4651" />
+
             <div class="form-group mb-5">
               <label class="form-label" for="name">Full Name</label>
               <input
@@ -60,21 +65,21 @@ const page_data = {
               />
             </div>
             <div class="form-group mb-5">
-              <label class="form-label" for="eamil">Email Adrdess</label>
+              <label class="form-label" for="eamil">Email Address</label>
               <input
                 class="form-control"
                 type="text"
                 id="email"
-                placeholder="Your  Email Address"
+                placeholder="Your Email Address"
               />
             </div>
             <div class="form-group mb-5">
               <label class="form-label" for="reason">Reason/Purpose</label>
               <select name="reason" id="reason" class="form-select" required>
                 <option value="">Select reason/purpose</option>
-                <option value="investment plane">Investment Plan</option>
-                <option value="investment plane-2">Investment Plan 2</option>
-                <option value="investment plane-3">Investment Plan 3</option>
+                <option value="investment plane">Email Marketing</option>
+                <option value="investment plane-2">Sales Funnels</option>
+                <option value="investment plane-3">Enterprise Email Management</option>
               </select>
             </div>
             <div class="form-group mb-5">
