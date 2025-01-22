@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Hive Outreach",
-    "base_url": "https://hiveoutreach.com",
+    "base_url": "https://www.hiveoutreach.com",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/hive-favi.png",
@@ -27,7 +27,7 @@
   },
 
   "disqus": {
-    "enable": true,
+    "enable": false,
     "shortname": "themefisher-template",
     "settings": {}
   },
