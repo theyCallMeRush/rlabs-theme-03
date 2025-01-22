@@ -10,8 +10,8 @@ banner:
 
 ##key features
 key_features:
-  title: "The Highlighting Part Of Our Solution"
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  title: The Core of Our Solution.
+  description: From attracting prospects to closing sales, we design and implement every stage of your funnel with precision, ensuring a seamless and effective journey for your customers.
   feature_list:
     - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
       title: Social Engineering Strategy
@@ -42,7 +42,7 @@ key_features:
 #service
 service:
   homepage_tab:
-    title: Prevent failure from to impacting your reputation
+    title: Your audience deserves more than cookie-cutter emails.
     description: Our strategies are designed to drive conversions and deliver real results. We craft targeted strategies that engage, convert, and retain your customers, helping you turn prospects into loyal clients.
     tab_list:
         - title: Increase your conversions with tailored strategies designed for results.
@@ -50,27 +50,27 @@ service:
           image: "/images/sells-by-country.png"
         - title: Precision list building and segmentation.
           icon: "clock"  #icon package react-feather-icon [https://feathericons.com/]
-          image: "/images/collaboration.png"
+          image: "/images/sells-by-country.png"
         - title: Conversion-focused copywriting.
           icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
           image: "/images/sells-by-country.png"
 
   our_service:
     - title: Why Choose Us?
-      desctiption: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed
+      desctiption: We’re not just another email marketing agency—we’re your partner in growth. Here’s why businesses trust us to deliver results:ultricies ligula sed
       image: "/images/collaboration.png"
       list:
         - Expertly Crafted Campaigns
         - Data-Driven Strategy
         - Full-Service Solutions
-    - title: Accountability that works for you
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+    - title: Turning Curious Prospects into Loyal Customers.
+      description: Lead nurturing is more than just follow-ups—it’s about building relationships, earning trust, and providing value every step of the way. At Hive Outreach, we craft nurturing campaigns that guide your prospects seamlessly through the buyer’s journey, keeping them engaged and motivated to take action.
       video:
         thumbnail: "/images/intro-thumbnail.png"
         video_id: "g3-VxLQO7do"
       button:
         label: Know About Us
-        link: "#"
+        link: "/about"
         enable: true
 
 #testimonial
@@ -78,49 +78,19 @@ testimonial:
   title: Our customers have nice things to say about us
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
   testimonial_list:
-    - author: David Cameron
+    - author: Barrington Virgo
       avatar: "/images/users/user-5.png"
-      organization: meta limited
-      rating: four
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
+      organization:
+      rating: five
+      content: Hive Outreach gave great service and finished what they said they would with my lofty site within 48 hours. I was having issues with my featured areas on my website and Ryan of Hive was able to fix the issue and sent me a guide on how to add more areas to it. Great timing and service.
+    - author: Nakeshia Shannon
       avatar: "/images/users/user-6.png"
-      organization: meta limited
-      rating: four
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
+      organization:
+      rating: five
+      content: I cannot recommend Ryan enough! From the moment we onboarded, their team took the time to deeply understand our brand and audience. The email campaigns they created weren’t just visually stunning; they drove real results—our open rates increased by 45%, and we saw a 32% spike in conversions within the first two months. Their automation workflows saved us countless hours while keeping our customers engaged. If you want an agency that delivers ROI and goes the extra mile, this is it!
     - author: David Cameron
       avatar: "/images/users/user-2.png"
       organization: meta limited
       rating: three
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-3.png"
-      organization: meta limited
-      rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-4.png"
-      organization: meta limited
-      rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-1.png"
-      organization: meta limited
-      rating: three
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-5.png"
-      organization: meta limited
-      rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-5.png"
-      organization: meta limited
-      rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-5.png"
-      organization: meta limited
-      rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
+      content: Working with Ryan and his team was a game-changer for our business. They implemented advanced segmentation strategies that made our emails feel personal, not spammy. The difference was night and day—our emails started landing in inboxes instead of the promotions tab, and our sales from email campaigns doubled in just three months! Their expertise in enterprise-level email delivery and marketing automation is unmatched. If you’re serious about growing through email, look no further!
 ---
