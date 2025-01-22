@@ -75,22 +75,22 @@ service:
 
 #testimonial
 testimonial:
-  title: Our customers have nice things to say about us
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  title: Here's what our customers have to say about us
+  description: Don’t just take our word for it—see what businesses like yours have achieved with our email marketing solutions. From boosted conversions to stronger customer relationships, our clients share their experiences and success stories. Ready to be our next success?
   testimonial_list:
     - author: Barrington Virgo
       avatar: "/images/users/user-5.png"
       organization:
       rating: five
       content: Hive Outreach gave great service and finished what they said they would with my lofty site within 48 hours. I was having issues with my featured areas on my website and Ryan of Hive was able to fix the issue and sent me a guide on how to add more areas to it. Great timing and service.
-    - author: Nakeshia Shannon
+    - author: John Carlson
       avatar: "/images/users/user-6.png"
-      organization:
+      organization: Evolution Solution Marketing
       rating: five
       content: I cannot recommend Ryan enough! From the moment we onboarded, their team took the time to deeply understand our brand and audience. The email campaigns they created weren’t just visually stunning; they drove real results—our open rates increased by 45%, and we saw a 32% spike in conversions within the first two months. Their automation workflows saved us countless hours while keeping our customers engaged. If you want an agency that delivers ROI and goes the extra mile, this is it!
-    - author: David Cameron
+    - author: Symon Tyce
       avatar: "/images/users/user-2.png"
-      organization: meta limited
-      rating: three
+      organization: Gizmogo
+      rating: five
       content: Working with Ryan and his team was a game-changer for our business. They implemented advanced segmentation strategies that made our emails feel personal, not spammy. The difference was night and day—our emails started landing in inboxes instead of the promotions tab, and our sales from email campaigns doubled in just three months! Their expertise in enterprise-level email delivery and marketing automation is unmatched. If you’re serious about growing through email, look no further!
 ---

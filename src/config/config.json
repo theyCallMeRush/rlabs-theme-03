@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Hive Outreach",
-    "base_url": "https://pinwheel-astro.vercel.app",
+    "base_url": "https://hiveoutreach.com",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/hive-favi.png",
@@ -22,7 +22,7 @@
     "description": "Ready to elevate your email marketing game? Let Hive Outreach help you craft personalized, high-impact campaigns that drive real results. Whether you’re looking to automate, analyze, or engage, we have the expertise to make it happen.",
     "button": {
       "label": "Book a Call",
-      "link": "https://themefisher.com/astro-themes/pinwheel-astro"
+      "link": "https://calendly.com/hiveoutreach/discovery"
     }
   },
 
@@ -34,16 +34,16 @@
 
   "params": {
     "footer_description": "We are a results-driven email marketing agency focused on delivering personalized, high-performance campaigns for brands in ecommerce, Web3, and enterprise-level businesses. With expertise in automation, social engineering, and cutting-edge analytics, we help you connect with your audience and achieve measurable success. Let’s create the future of email marketing, together.",
-    "email": "info@andromeda.io",
-    "location": "2118 Thornridge Cir. Syracuse, Connecticut 35624",
-    "phone": "+704-555-0127",
+    "email": "ryan@hiveoutreach.com",
+    "location": "",
+    "phone": "",
     "contact_form_action": "#",
-    "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": "Copyright © 2024 a theme by [Rushlow Labs](https://rushlowlabs.com)"
   },
 
   "metadata": {
     "meta_author": "Hive Outreach",
     "meta_image": "/images/Hive-meta.png",
-    "meta_description": "pinwheel astro"
+    "meta_description": "Hive Outreach: Where Inbox Meets Impact."
   }
 }
