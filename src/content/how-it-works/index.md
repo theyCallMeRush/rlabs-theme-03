@@ -16,23 +16,23 @@ perfomance:
     image: "/images/how-it-work/awards.png"
 # works
 our_works:
-  - title: We'll do the legwork so you don't have to.
+  - title: We handle the heavy lifting so you can focus on results.
     image: "/images/how-it-work/image-1.png"
     list:
-      - Supporting more than 119 country world
-      - Open transaction with more than currencies
-      - Customer Service with 79 languages
-  - title: We'll do the legwork so you don't have to.
+      - Custom-designed email campaigns tailored to your brand.
+      - Expert copywriting to engage and convert your audience.
+      - Building strategies that deliver measurable success.
+  - title: Smarter strategies, better results.  
     image: "/images/how-it-work/image-2.png"
     list:
-      - Supporting more than 119 country world
-      - Open transaction with more than currencies
-      - Customer Service with 79 languages
-  - title: Check out their profiles, reviews On.
+      - Personalized messaging tailored to your audience.
+      - Automated workflows to simplify your communication.
+      - Insights-driven optimization to improve performance 
+  - title:  What sets Hive apart.  
     image: "/images/how-it-work/image-3.png"
     list:
-      - Supporting more than 119 country world
-      - Open transaction with more than currencies
-      - Customer Service with 79 languages
+      - A team dedicated to helping you achieve your goals.
+      - Long-term solutions focused on retention and growth.
+      - Innovative ideas to stay ahead of the competition.
 ---
 At Hive Outreach, we provide enterprise-level email marketing solutions that drive scalable growth. Our approach combines sophisticated strategies, cutting-edge tools, and dedicated support to ensure your brand stands out in today’s competitive landscape. From crafting high-converting campaigns to optimizing performance, we’re committed to helping you achieve measurable success, no matter the size of your business.
