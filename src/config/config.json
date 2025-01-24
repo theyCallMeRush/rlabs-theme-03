@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Hive Outreach",
+    "title": "Hive Outreach | Evolutionary Email Marketing",
     "base_url": "https://www.hiveoutreach.com",
     "base_path": "/",
     "trailing_slash": false,
@@ -38,11 +38,11 @@
     "location": "",
     "phone": "",
     "contact_form_action": "#",
-    "copyright": "Copyright © 2024 a theme by [Rushlow Labs](https://rushlowlabs.com)"
+    "copyright": "Copyright © 2024 a theme by [Rushlow Labs](https://ryanrushlow.netlify.app)"
   },
 
   "metadata": {
-    "meta_author": "Hive Outreach",
+    "meta_author": "Hive Outreach | Where Inbox Meets Impact.",
     "meta_image": "/images/Hive-meta.png",
     "meta_description": "Hive Outreach: Where Inbox Meets Impact."
   }
